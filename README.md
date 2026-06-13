@@ -45,12 +45,13 @@ I don't understand.
 ```text
 CodeAlpha_BasicChatbot/
 │
+├── screenshots/
+│   ├── chat_window.png
+│   ├── goodbye.png
+│   └── greeting.png
+│
 ├── chatbot.py
-├── README.md
-└── screenshots/
-    ├── chat_window.png
-    ├── greeting.png
-    └── goodbye.png
+└── README.md
 ```
 
 ## 📚 Concepts Used
